@@ -5,7 +5,7 @@
 
 2. Write a while loop that only exits when a user types in q.
 
-3. Write a while loop that exits when the sum of the squares 1^2 + 2^2 + 3^2  + … exceeds an input m. Print the largest sum less than m and the number of terms in the sum.
+3. Write a procedure that has a while loop that exits when the sum of the squares 1^2 + 2^2 + 3^2  + … exceeds an input m. Print the largest sum less than m and the number of terms in the sum.
 ```
 Example: If m = 18 then 
 1^2 +2^2 + 3^2 = 1 + 4 + 9 = 14
